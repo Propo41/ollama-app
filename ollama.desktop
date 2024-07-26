@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=OllamaApp
+Exec=/home/primesquid/Desktop/start_ollama.sh
+Icon=/home/primesquid/Desktop/ollama-ui/ollamaapp_icon.png
+Type=Application
+Terminal=true
